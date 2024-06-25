@@ -33,7 +33,7 @@ const Hero = () => {
         <div class="w-[5vw] ml-[6vw] border-t-[0.2px] border-[#DC4A2D] mb-2"></div>
         <hr/>
         <div className='flex flex-col md:flex-row h-[80vh]'>
-            <div className='w-full lg:w-[80%] min-h-[140vh] md:min-h-[120vh] pl-[66px] pt-[40px] '>
+            <div className='w-full lg:w-[80%] min-h-[180vh] md:min-h-[120vh] pl-[66px] pt-[40px] '>
                 <div>
                     <div className='flex lg:gap-10'>
                         <p className="lg:text-5xl text-3xl gap-5 font-semibold mb-2">{data.Position}</p>
